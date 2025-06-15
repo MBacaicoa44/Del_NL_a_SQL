@@ -13,9 +13,7 @@ Este proyecto corresponde a mi Trabajo Fin de Grado (TFG), centrado en el desarr
 ### Contenido del repositorio
 - `data/`: datos raw de Spider.
 - `docs/`: memoria del trabajo final de grado.
-- `finetuned_models/`: modelos fine-tuneados resultados del notebook `01_train_models.ipynb`
 - `notebooks`: notebooks utilizados para entrenar los modelos (`01_train_models.ipynb`) y para visualizar los resultados (02_results_analysis.ipynb).
 - `predictions`: ficheros csv con los resultados finales de los datos utilizados como testing. (consulta generada, BLEU y clasificación)
 - `procesed`: datasets procesados.
 - `src/`: código fuente para preprocesamiento, clasificación e inferencia.
-
